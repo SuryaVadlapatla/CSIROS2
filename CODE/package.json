@@ -1,0 +1,17 @@
+{
+  "name": "csiro",
+  "version": "1.0.0",
+  "description": "project csiro",
+  "main": "dbconn.js",
+  "dependencies": {
+    "mongodb": "^3.2.3",
+    "mongoose": "^5.5.2",
+    "node": "^11.13.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "vvsteja",
+  "license": "MIT"
+}
