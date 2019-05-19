@@ -1,0 +1,13 @@
+{
+    "name": "web-server",
+    "version": "0.1.0",
+    "description": "Web server for CSIRO",
+    "dependencies": {
+        "body-parser": "*",
+        "express": "*",
+        "log": "1.4.0",
+        "node": "^12.2.0"
+    },
+    "author": "Surya",
+    "license": "MIT"
+}
