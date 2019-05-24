@@ -1,0 +1,23 @@
+{
+  "name": "annontator-dictionary",
+  "version": "1.0.0",
+  "description": "Application for definitions",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "dictionary",
+    "annotator"
+  ],
+  "author": "Craig",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mongodb": "^3.2.3",
+    "node": "^12.2.0",
+    "socket.io": "^2.2.0"
+  }
+}
